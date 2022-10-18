@@ -1,0 +1,5 @@
+export const SET_TODO_INPUT = 'set_todo_input'
+export const ADD_TODO_LIST = 'add_todo_list'
+export const DELETE_TODO = 'delete_todo'
+export const COMPLETE_JOB = 'complete_job'
+export const UN_COMPLETE_JOB = 'un_complete_job'
